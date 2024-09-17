@@ -54,3 +54,4 @@ print("\nПроверка CSV:")
 print(pd.read_csv('avg_price_per_floor.csv'))
 print("\nПроверка XLSX:")
 print(pd.read_excel('avg_price_per_floor.xlsx'))
+aksen ebobo
